@@ -14,7 +14,6 @@
     {
       "name": "BreakBox",
       "bundleIdentifier": "com.mexelrobi.BreakBox",
-      "marketplaceID": "",
       "developerName": "MexeRobi",
       "subtitle": "App to open Apps.",
       "localizedDescription": "This app can open any app from the specified bundle id.",
@@ -44,7 +43,6 @@
     {
       "name": "Respringer",
       "bundleIdentifier": "com.mexelrobi.Respringer",
-      "marketplaceID": "",
       "developerName": "MexelRobi",
       "subtitle": "SpringBoard Crasher",
       "localizedDescription": "Crashes the SpringBoard in order to restart it. #Please don't run the app in a Simulator on macOS.",
