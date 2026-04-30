@@ -4,7 +4,6 @@
   "description": "The MexelRobi Store AltSource that you can add to AltStore",
   "iconURL": "https://mexelrobi.github.io/MexelRobi-Store/StoreIcon.png",
   "website": "https://mexelrobi.github.io/MexelRobi-Store",
-  "patreonURL": "",
   "tintColor": "#000000",
   "featuredApps": [
     "com.mexelrobi.Respringer",
