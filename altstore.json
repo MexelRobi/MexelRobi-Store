@@ -1,0 +1,77 @@
+{
+  "name": "MexelRobi Store",
+  "subtitle": "The MexelRobi Store",
+  "description": "The MexelRobi Store AltSource that you can add to AltStore",
+  "iconURL": "https://mexelrobi.github.io/MexelRobi-Store/StoreIcon.png",
+  "website": "https://mexelrobi.github.io/MexelRobi-Store",
+  "patreonURL": "",
+  "tintColor": "#000000",
+  "featuredApps": [
+    "com.mexelrobi.Respringer",
+    "com.mexelrobi.BreakBox"
+  ],
+  "headerURL": "https://mexelrobi.github.io/MexelRobi-Store/StoreHeader.png",
+  "apps": [
+    {
+      "name": "BreakBox",
+      "bundleIdentifier": "com.mexelrobi.BreakBox",
+      "marketplaceID": "",
+      "developerName": "MexeRobi",
+      "subtitle": "App to open Apps.",
+      "localizedDescription": "This app can open any app from the specified bundle id.",
+      "iconURL": "https://mexelrobi.github.io/MexelRobi-Store/AppIcons/BreakBox.png",
+      "tintColor": "#048cfc",
+      "category": "developer",
+      "screenshots": [
+        "https://mexelrobi.github.io/MexelRobi-Store/Screenshots/BreakBox.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-04-30T17:53:00+02:00",
+          "localizedDescription": "Initial Release",
+          "downloadURL": "https://mexelrobi.github.io/MexelRobi-Store/Apps/BreakBox/1.0/BreakBox.ipa",
+          "size": 4700000,
+          "buildVersion": null,
+          "minOSVersion": "26.4"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Respringer",
+      "bundleIdentifier": "com.mexelrobi.Respringer",
+      "marketplaceID": "",
+      "developerName": "MexelRobi",
+      "subtitle": "SpringBoard Crasher",
+      "localizedDescription": "Crashes the SpringBoard in order to restart it. #Please don't run the app in a Simulator on macOS.",
+      "iconURL": "https://mexelrobi.github.io/MexelRobi-Store/AppIcons/Respringer.png",
+      "tintColor": "#000000",
+      "category": "utilities",
+      "screenshots": [
+        "https://mexelrobi.github.io/MexelRobi-Store/Screenshots/Respringer.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-04-30T15:50:00+02:00",
+          "localizedDescription": "Initial Release",
+          "downloadURL": "https://mexelrobi.github.io/MexelRobi-Store/Apps/Respringer/1.0/Respringer.ipa",
+          "size": 1700000,
+          "buildVersion": null,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
