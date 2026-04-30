@@ -7,7 +7,7 @@
   "tintColor": "#000000",
   "featuredApps": [
     "com.mexelrobi.Respringer",
-    "com.mexelrobi.BreakBox"
+    "com.mexelrobi.C-Space-Object"
   ],
   "headerURL": "https://mexelrobi.github.io/MexelRobi-Store/StoreHeader.png",
   "apps": [
@@ -32,6 +32,32 @@
           "size": 4700000,
           "buildVersion": null,
           "minOSVersion": "26.4"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+    },
+    {
+      "name": "C-Space-Object",
+      "bundleIdentifier": "com.mexelrobi.C-Space-Object",
+      "developerName": "MexeRobi",
+      "subtitle": "",
+      "localizedDescription": "Little old game...",
+      "iconURL": "https://mexelrobi.github.io/MexelRobi-Store/AppIcons/C-Space-Object.png",
+      "tintColor": "#00ff44",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-04-30T23:19:00+02:00",
+          "localizedDescription": "Initial Release",
+          "downloadURL": "https://mexelrobi.github.io/MexelRobi-Store/Apps/C-Space-Object/1.0/C-Space-Object.ipa",
+          "size": 1800000,
+          "buildVersion": null,
+          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
