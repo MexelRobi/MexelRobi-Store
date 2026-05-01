@@ -78,24 +78,24 @@
         "https://mexelrobi.github.io/MexelRobi-Store/Screenshots/Respringer.png"
       ],
       "versions": [
-        {
-          "version": "1.0",
-          "date": "2026-04-30T15:50:00+02:00",
-          "localizedDescription": "Initial Release",
-          "downloadURL": "https://mexelrobi.github.io/MexelRobi-Store/Apps/Respringer/1.0/Respringer.ipa",
-          "size": 1700000,
-          "buildVersion": null,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.1",
-          "date": "2026-05-1T17:35:00+02:00",
-          "localizedDescription": "Support for iOS 26.4.2",
-          "downloadURL": "https://mexelrobi.github.io/MexelRobi-Store/Apps/Respringer/1.1/Respringer.ipa",
-          "size": 1700000,
-          "buildVersion": null,
-          "minOSVersion": "26.0"
-        }
+          {
+              "version": "1.1",
+              "date": "2026-05-1T17:35:00+02:00",
+              "localizedDescription": "Support for iOS 26.4.2",
+              "downloadURL": "https://mexelrobi.github.io/MexelRobi-Store/Apps/Respringer/1.1/Respringer.ipa",
+              "size": 1700000,
+              "buildVersion": null,
+              "minOSVersion": "26.0"
+          },
+          {
+            "version": "1.0",
+            "date": "2026-04-30T15:50:00+02:00",
+            "localizedDescription": "Initial Release",
+            "downloadURL": "https://mexelrobi.github.io/MexelRobi-Store/Apps/Respringer/1.0/Respringer.ipa",
+            "size": 1700000,
+            "buildVersion": null,
+            "minOSVersion": "26.0"
+          }
       ],
       "appPermissions": {
         "entitlements": [],
