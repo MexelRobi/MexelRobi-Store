@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MexelRobi-Store | AltStore Source</title>
+    <style>
+        :root {
+            --primary-color: #007AFF;
+            --bg-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            --glass-bg: rgba(255, 255, 255, 0.1);
+            --glass-border: rgba(255, 255, 255, 0.2);
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background: var(--bg-gradient);
+            background-attachment: fixed;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            background: var(--glass-bg);
+            backdrop-filter: blur(15px);
+            -webkit-backdrop-filter: blur(15px);
+            border: 1px solid var(--glass-border);
+            border-radius: 24px;
+            padding: 40px;
+            max-width: 500px;
+            width: 100%;
+            text-align: center;
+            box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+        }
+
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        p {
+            opacity: 0.9;
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+
+        .btn-container {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 15px 25px;
+            border-radius: 12px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: transform 0.2s, background 0.2s;
+            cursor: pointer;
+        }
+
+        .btn-primary {
+            background-color: var(--primary-color);
+            color: white;
+            box-shadow: 0 4px 15px rgba(0, 122, 255, 0.4);
+        }
+
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.15);
+            color: white;
+            border: 1px solid var(--glass-border);
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            filter: brightness(1.1);
+        }
+
+        .source-box {
+            background: rgba(0, 0, 0, 0.2);
+            padding: 15px;
+            border-radius: 10px;
+            margin: 25px 0;
+            font-family: monospace;
+            word-break: break-all;
+            font-size: 0.9rem;
+            border: 1px dashed var(--glass-border);
+        }
+
+        .footer {
+            margin-top: 30px;
+            font-size: 0.8rem;
+            opacity: 0.6;
+        }
+
+        hr {
+            border: 0;
+            border-top: 1px solid var(--glass-border);
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>MexelRobi-Store</h1>
+    <p>Willkommen bei der offiziellen AltStore Source für nützliche iOS Tools und Apps.</p>
+
+    <div class="btn-container">
+        <a href="altstore://source?url=https://mexelrobi.github.io/MexelRobi-Store/altstore.json" class="btn btn-primary">
+            ➕ Zu AltStore hinzufügen
+        </a>
+
+        <a href="https://therealfoxster.github.io/altsource-viewer/view/app/?source=https://mexelrobi.github.io/MexelRobi-Store/altstore.json" target="_blank" class="btn btn-secondary">
+            📱 Apps im Viewer ansehen
+        </a>
+    </div>
+
+    <div class="source-box">
+        https://mexelrobi.github.io/MexelRobi-Store/altstore.json
+    </div>
+
+    <div class="footer">
+        Erstellt von MexelRobi<br>
+        Diese Website steht in keiner Verbindung zu Apple Inc.
+    </div>
+</div>
+
+</body>
+</html>
