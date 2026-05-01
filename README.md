@@ -15,7 +15,7 @@ To add this source to your AltStore, follow these simple steps:
 
 ## 📱 View Source
 
-**--> View**(https://therealfoxster.github.io/altsource-viewer/view/app/?source=https://mexelrobi.github.io/MexelRobi-Store/altstore.json)
+**--> View**[https://therealfoxster.github.io/altsource-viewer/view/app/?source=https://mexelrobi.github.io/MexelRobi-Store/altstore.json]
 
 ---
 
