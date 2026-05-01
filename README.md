@@ -13,15 +13,9 @@ To add this source to your AltStore, follow these simple steps:
 4. Tap the **"+"** icon in the top left corner.
 5. Paste the URL and tap **"Add"**.
 
-## 📱 Featured Apps
+## 📱 View Source
 
-Currently, this store provides the following applications:
-
-### 1. Respringer
-A fast and reliable tool to perform a **Respring** on your device. Perfect for users who need to reload the SpringBoard quickly without a full reboot.
-
-### 2. BreakBox
-A utility tool that allows you to launch any installed application directly using its unique Bundle ID.
+**--> View**(https://therealfoxster.github.io/altsource-viewer/view/app/?source=https://mexelrobi.github.io/MexelRobi-Store/altstore.json)
 
 ---
 
