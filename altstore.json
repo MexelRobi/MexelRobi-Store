@@ -88,7 +88,7 @@
           "minOSVersion": "26.0"
         },
         {
-          "version": "1.0",
+          "version": "1.1",
           "date": "2026-05-1T17:35:00+02:00",
           "localizedDescription": "Support for iOS 26.4.2",
           "downloadURL": "https://mexelrobi.github.io/MexelRobi-Store/Apps/Respringer/1.1/Respringer.ipa",
