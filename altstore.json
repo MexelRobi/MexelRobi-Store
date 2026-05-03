@@ -110,10 +110,19 @@
       "subtitle": "",
       "localizedDescription": "BracketBound is a funny litte game.",
       "iconURL": "https://mexelrobi.github.io/MexelRobi-Store/AppIcons/BracketBound.png",
-      "tintColor": "#000000",
+      "tintColor": "#00fffb",
       "category": "games",
       "screenshots": [],
       "versions": [
+          {
+            "version": "1.1",
+            "date": "2026-05-3T17:50:00+02:00",
+            "localizedDescription": "1.1 Version",
+            "downloadURL": "https://mexelrobi.github.io/MexelRobi-Store/Apps/BracketBound/1.1/BracketBound.ipa",
+            "size": 4400000,
+            "buildVersion": null,
+            "minOSVersion": "18.0"
+          },
           {
             "version": "1.0",
             "date": "2026-05-2T15:00:00+02:00",
