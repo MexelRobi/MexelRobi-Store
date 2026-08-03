@@ -80,6 +80,15 @@
       ],
       "versions": [
           {
+              "version": "1.3",
+              "date": "2026-08-3T18:30:00+02:00",
+              "localizedDescription": "Fixes",
+              "downloadURL": "https://mexelrobi.github.io/MexelRobi-Store/Apps/Respringer/1.3/Respringer.ipa",
+              "size": 3528133,
+              "buildVersion": null,
+              "minOSVersion": "26.0"
+          },
+          {
               "version": "1.2",
               "date": "2026-08-3T17:30:00+02:00",
               "localizedDescription": "New Features -  New Icon",
