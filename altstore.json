@@ -122,6 +122,32 @@
       },
     },
     {
+      "name": "CacheCleaner",
+      "bundleIdentifier": "com.mexelrobi.CacheCleaner",
+      "developerName": "MexelRobi",
+      "subtitle": "Cleans System Data and other Caches.",
+      "localizedDescription": "It cleans by creating dummy files to force cache_delete to clean up.",
+      "iconURL": "https://mexelrobi.github.io/MexelRobi-Store/AppIcons/CacheCleaner.png",
+      "tintColor": "#ff0000",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+          {
+            "version": "1.0",
+            "date": "2026-08-9T15:50:00+02:00",
+            "localizedDescription": "Initial Release",
+            "downloadURL": "https://mexelrobi.github.io/MexelRobi-Store/Apps/CacheCleaner/1.0/CacheCleaner.ipa",
+            "size": 2770337,
+            "buildVersion": null,
+            "minOSVersion": "26.0"
+          }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+    },
+    {
       "name": "BracketBound",
       "bundleIdentifier": "com.mexelrobi.BracketBound",
       "developerName": "MexelRobi",
