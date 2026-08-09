@@ -8,7 +8,7 @@
   "featuredApps": [
     "com.mexelrobi.Respringer",
     "com.mexelrobi.BracketBound",
-    "com.mexelrobi.C-Space-Object"
+    "com.mexelrobi.CacheCleaner"
   ],
   "headerURL": "https://mexelrobi.github.io/MexelRobi-Store/StoreHeader.png",
   "apps": [
@@ -134,7 +134,7 @@
       "versions": [
           {
             "version": "1.0",
-            "date": "2026-08-9T15:50:00+02:00",
+            "date": "2026-08-9T12:40:00+02:00",
             "localizedDescription": "Initial Release",
             "downloadURL": "https://mexelrobi.github.io/MexelRobi-Store/Apps/CacheCleaner/1.0/CacheCleaner.ipa",
             "size": 2770337,
